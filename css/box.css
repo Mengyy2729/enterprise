@@ -1,0 +1,15 @@
+.box1{
+	width: 100px;
+	height: 120px;
+	border: 1px solid red;
+	margin-bottom: 20px;
+	/* margin: 1px 2px 3px 4px;  上 右 下 左 */
+	/*padding: 1px 2px 3px 4px;  上 右 下 左     使用padding时会改变盒子的宽度和高度*/
+	padding-left: 20px;
+}
+.box2{
+	width: 100px;
+	height: 120px;
+	border: 1px solid blue;
+	padding-top: 30px;
+}
